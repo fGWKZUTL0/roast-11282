@@ -33,3 +33,10 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+node_modules/.bin/esbuild
+node_modules/.bin/loose-envify
+node_modules/.bin/sass
+node_modules/react/node_modules/.bin/loose-envify
+node_modules/esbuild/bin/esbuild
+node_modules/react-dom/node_modules/.bin/loose-envify
+node_modules/scheduler/node_modules/.bin/loose-envify
